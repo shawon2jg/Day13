@@ -1,0 +1,18 @@
+D:\Daily Project\26-Dec-2014More practices of oop\StudentSemesterApp\StudentSemesterApp\bin\Debug\StudentSemesterApp.exe.config
+D:\Daily Project\26-Dec-2014More practices of oop\StudentSemesterApp\StudentSemesterApp\bin\Debug\StudentSemesterApp.exe
+D:\Daily Project\26-Dec-2014More practices of oop\StudentSemesterApp\StudentSemesterApp\bin\Debug\StudentSemesterApp.pdb
+D:\Daily Project\26-Dec-2014More practices of oop\StudentSemesterApp\StudentSemesterApp\obj\Debug\StudentSemesterApp.csprojResolveAssemblyReference.cache
+D:\Daily Project\26-Dec-2014More practices of oop\StudentSemesterApp\StudentSemesterApp\obj\Debug\StudentSemesterApp.Form1.resources
+D:\Daily Project\26-Dec-2014More practices of oop\StudentSemesterApp\StudentSemesterApp\obj\Debug\StudentSemesterApp.Properties.Resources.resources
+D:\Daily Project\26-Dec-2014More practices of oop\StudentSemesterApp\StudentSemesterApp\obj\Debug\StudentSemesterApp.csproj.GenerateResource.Cache
+D:\Daily Project\26-Dec-2014More practices of oop\StudentSemesterApp\StudentSemesterApp\obj\Debug\StudentSemesterApp.exe
+D:\Daily Project\26-Dec-2014More practices of oop\StudentSemesterApp\StudentSemesterApp\obj\Debug\StudentSemesterApp.pdb
+E:\FTFL Class Lecture\BITM course\31-Dec-2014\StudentSemesterApp\StudentSemesterApp\bin\Debug\StudentSemesterApp.exe.config
+E:\FTFL Class Lecture\BITM course\31-Dec-2014\StudentSemesterApp\StudentSemesterApp\obj\Debug\StudentSemesterApp.exe
+E:\FTFL Class Lecture\BITM course\31-Dec-2014\StudentSemesterApp\StudentSemesterApp\obj\Debug\StudentSemesterApp.pdb
+E:\FTFL Class Lecture\BITM course\31-Dec-2014\StudentSemesterApp\StudentSemesterApp\bin\Debug\StudentSemesterApp.exe
+E:\FTFL Class Lecture\BITM course\31-Dec-2014\StudentSemesterApp\StudentSemesterApp\bin\Debug\StudentSemesterApp.pdb
+E:\FTFL Class Lecture\BITM course\31-Dec-2014\StudentSemesterApp\StudentSemesterApp\obj\Debug\StudentSemesterApp.csprojResolveAssemblyReference.cache
+E:\FTFL Class Lecture\BITM course\31-Dec-2014\StudentSemesterApp\StudentSemesterApp\obj\Debug\StudentSemesterApp.Form1.resources
+E:\FTFL Class Lecture\BITM course\31-Dec-2014\StudentSemesterApp\StudentSemesterApp\obj\Debug\StudentSemesterApp.Properties.Resources.resources
+E:\FTFL Class Lecture\BITM course\31-Dec-2014\StudentSemesterApp\StudentSemesterApp\obj\Debug\StudentSemesterApp.csproj.GenerateResource.Cache
